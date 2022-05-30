@@ -38,7 +38,7 @@ public class MainConversor {
 		// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 		
 		//variable que define si el programa termina
-		boolean finDeEjecución = false;
+		boolean finDeEjecucion = false;
 
 		
 		//comienzo del programa
@@ -132,7 +132,7 @@ public class MainConversor {
 			}
 			
 			
-		} while (!finDeEjecución);
+		} while (!finDeEjecucion);
 
 	}
 }
